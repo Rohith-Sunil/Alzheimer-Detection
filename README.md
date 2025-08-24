@@ -1,7 +1,7 @@
-# CogniCare - Alzheimer's Detection Platform
+# Memora - Alzheimer's Detection Platform
 
 ## Overview
-CogniCare is a web-based application that helps in the early detection of Alzheimer's disease by analyzing speech patterns. It utilizes machine learning models to assess speech input and provide diagnostic predictions.
+Memora is a web-based application that helps in the early detection of Alzheimer's disease by analyzing speech patterns. It utilizes machine learning models to assess speech input and provide diagnostic predictions.
 
 ## Features
 - **Audio Recording & Transcription**: Users can record their speech, which is then transcribed using AssemblyAI.
